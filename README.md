@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bilal Shafqat</h1>
+<img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/C4D22AQHruSEqTnTh3w/feedshare-shrink_800/0/1676931193462?e=1703116800&v=beta&t=GpIORco3TnDZWEvTXA2Ftdj7wSEr6wux0w8uWz5B6gQ">
+
 <h3 align="center">As a passionate full-stack developer with expertise in MERN, I am proficient in ReactJs, AngularJs, Javascript, Typescript, Firebase, ExpressJs, NodeJs, Socket.io, Stripe, ReduxJs, and pipeline development</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mbilalshafqat" alt="mbilalshafqat" /></a> </p>
